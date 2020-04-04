@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cristina\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="C:\Users\Cristina\Documents\AndroidProyects\GAME\GOExample\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_035aa57489a5e11e4296554c830ba8645bb66b1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cristina\Documents\AndroidProyects\GAME\GOExample\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="681ac1fd83339566c6a84b8bc5d8a36251224c6e">
+        <dex dex="C:\Users\Cristina\Documents\AndroidProyects\GAME\GOExample\android\build\intermediates\pre-dexed\debug\core-1.0_441fb0fc056043e0076ab172e62ac9f7140e81ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cristina\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="C:\Users\Cristina\Documents\AndroidProyects\GAME\GOExample\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_71b8895715bfdb66c09f04cb2cb9e77978b69a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cristina\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="C:\Users\Cristina\Documents\AndroidProyects\GAME\GOExample\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_9729439a51aa4ad80bf0e7265f892ffc0165ca8a.jar" />
+    </item>
+
+</items>
